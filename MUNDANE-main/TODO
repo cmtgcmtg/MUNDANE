@@ -1,0 +1,36 @@
+for now
+
+make passes inside of there class as static
+
+use unique pointers and establish the parent-object deletion system
+
+in selection have passes as the primary
+
+add on the tile pass
+
+in player.cpp add on 2d camera and 3d camera 
+
+
+after
+
+establish provinces
+
+establish nations
+
+establish battles
+
+
+
+
+
+
+
+
+
+
+
+
+
+much much later
+
+establish the affiliate class where affilaites are a psuedo object where they bind to the real object on the server
