@@ -1,1 +1,0 @@
-g++ main.cpp systems/world.cpp systems/selection.cpp systems/routine.cpp objects/Tile/tile.cpp objects/Unit/unit.cpp -o game -g -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
