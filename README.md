@@ -1,9 +1,13 @@
 # MUNDANE
 
-for linux only, will include windows soon
+**LINUX BUILD**
 
-to build run chmod +x on the b.sh its the build command,
-run it via ./b.sh
-then do ./game
+To build
 
-or do just ./game
+```
+git clone github.com/cmtgcmtg/MUNDANE
+cd MUNDANE-main
+chmod +x b.sh
+./b.sh
+./game
+```
