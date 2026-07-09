@@ -1,0 +1,1 @@
+g++ main.cpp systems/world.cpp player/appliants/pass.cpp player/appliants/selection.cpp player/appliants/render.cpp systems/routine.cpp objects/Tile/tile.cpp objects/Unit/unit.cpp -o game -Ofast -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
